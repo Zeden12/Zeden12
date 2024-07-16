@@ -16,59 +16,44 @@ I'm a passionate software developer specializing in crafting dynamic websites an
 
 ## 💼 Technical Skills
 
-### Languages
+## 🛠 Tech Stack
 
-- JavaScript
-- Python
-- TypeScript
-- HTML & CSS (Tailwind)
+- **Frontend**: React, Angular, Vue.js, HTML, CSS, Tailwind
+- **Backend**: Node.js, Express, Python, Django
+- **Mobile**: Flutter, React Native
+- **Database**: MongoDB, PostgreSQL, MySQL
+- **Cloud**: AWS, Firebase
+- **DevOps**: Docker, Kubernetes
 
-### Frameworks & Libraries
+## 🎓 Certifications
 
-- React
-- Angular
-- Vue.js
-- Node.js
-- Next.js
-- Express
-- Flutter
-- React Native
+- Certified Software Developer & Full Stack Web Developer
+- Networking Course, Cybary
 
-### Tools & Platforms
+## 🚀 Currently Learning
 
-- Git & GitHub
-- Docker
-- Firebase
-- AWS
-- MongoDB
-- PostgreSQL
-- MySQL
-- Kali Linux
+- Machine Learning with TensorFlow
+- Cloud Computing with AWS
+- DevOps with Docker and Kubernetes
 
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeden12&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeden12&theme=radical&layout=compact)
+
 ## 🌟 Featured Projects
 
 - **[KCA](https://github.com/Zeden12/kigali-center-for-autism-initiatives-fn)**: The Autism Initiative NGO works to increase autism awareness and support through various community projects.
+- **[Project X](https://github.com/Zeden12/project-x)**: A cutting-edge machine learning project that predicts XYZ using ABC algorithms.
+- **[Mobile App](https://github.com/Zeden12/mobile-app)**: A cross-platform mobile application built with Flutter and Firebase.
+
 
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ernest-haguma-kwizera-709195241/)
 - [Twitter](https://twitter.com/ZedishCharm)
 - [Personal Website](https://ernez.netlify.app/)
-
-## 📜 Certifications
-
-- Certified Software Developer & Full Stack Web Developer
-- Completed Networking Course, Cybary, etc.
-
-## 🌱 Currently Learning
-
-- Machine Learning with TensorFlow
-- Cloud Computing with AWS
-- DevOps with Docker and Kubernetes
 
 ## 🤝 Open for Opportunities
 
