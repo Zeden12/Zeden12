@@ -4,8 +4,8 @@ I'm a passionate software developer specializing in crafting dynamic websites an
 
 ## 🚀 About Me
 
-- 🔭 I’m currently pursuing a bachelor's in Information Systems, focusing on databases.
-- 🔭 Also, I’m working on a Local NGO's project which will last 2 months.
+- 🔭 I’m currently pursuing a bachelor's in Information Systems, focusing on databases and system development & management.
+- 🔭 Also, I’m working on KCA(Kigali Center for Autism initiatives) project .
 - 🌱 I’m constantly learning and exploring new technologies like Machine Learning, AI, and Blockchain.
 - 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
 - 💬 Ask me about anything related to web and mobile app development.
@@ -18,36 +18,36 @@ I'm a passionate software developer specializing in crafting dynamic websites an
 
 ## 🛠 Tech Stack
 
-- **Frontend**: React, Angular, Vue.js, HTML, CSS, Tailwind
-- **Backend**: Node.js, Express, Python, Django
+- **Frontend**: React, Angular, HTML5, HTML,SCSS, CSS, Tailwind
+- **Backend**: Node.js, Express
 - **Mobile**: Flutter, React Native
 - **Database**: MongoDB, PostgreSQL, MySQL
-- **Cloud**: AWS, Firebase
-- **DevOps**: Docker, Kubernetes
+- **Cloud**: Firebase
+- **DevOps**: Docker
+
+## 🚀 Freelancing
+
+- **[Upwork](https://www.upwork.com/freelancers/~01d56c6e935507ef0d)**: doing Full-Stack Development, Q/A Testing, Virtual Assistance,...
+- Utest
+- Freelancer ...
 
 ## 🎓 Certifications
 
-- Certified Software Developer & Full Stack Web Developer
+- Certified Full Stack Developer  ATLP(https://rwanda.andela.com/)
+- AICE(Aritificial Intelligence Career Essential), ALX
+- VA(Virtual Assistant), ALX
+- Networking Course, CISCO
 - Networking Course, Cybary
 
 ## 🚀 Currently Learning
 
-- Machine Learning with TensorFlow
+- Development with Next.js, Angular, python, Django 
 - Cloud Computing with AWS
-- DevOps with Docker and Kubernetes
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeden12&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeden12&theme=radical&layout=compact)
+- DevOps with Kubernetes
 
 ## 🌟 Featured Projects
 
 - **[KCA](https://github.com/Zeden12/kigali-center-for-autism-initiatives-fn)**: The Autism Initiative NGO works to increase autism awareness and support through various community projects.
-- **[Project X](https://github.com/Zeden12/project-x)**: A cutting-edge machine learning project that predicts XYZ using ABC algorithms.
-- **[Mobile App](https://github.com/Zeden12/mobile-app)**: A cross-platform mobile application built with Flutter and Firebase.
-
 
 ## 🌐 Connect with Me
 
